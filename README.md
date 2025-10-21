@@ -55,7 +55,7 @@ IoT Data Simulation → Data Preprocessing → Vector Knowledge Base → LLM Eng
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/AgriPrompt.git
+git clone https://github.com/Sasmithere/AgriPrompt.git
 cd AgriPrompt
 ```
 
